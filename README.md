@@ -1,2 +1,8 @@
 # hello-world
-just another repository
+
+
+Hi i'm taesub, i like computer-language 
+
+i am studying about it
+
+thank you!
